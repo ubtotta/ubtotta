@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Uday Kumar</h1>
+<h1 align="center">👋 Hi, I'm Udaya Kumar B Totta</h1>
 <h3 align="center">🐍 Python | 🤖 Machine Learning | 🧠 Deep Learning | 📊 Data Science</h3>
 
 <p align="center">
