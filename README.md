@@ -87,6 +87,18 @@ Turning data into intelligence and code into real-world solutions.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubtotta&layout=compact&theme=tokyonight" />
 </p>
 
+## 🏆 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+</p>
+
 ---
 
 ## 🎯 Current Focus
