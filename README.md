@@ -72,7 +72,6 @@ Mission:
 | Domain | Technologies |
 |----------|----------|
 | Artificial Intelligence | Machine Learning, Deep Learning |
-| Generative AI | LLMs, Prompt Engineering |
 | Backend Development | Flask |
 | Databases | Oracle SQL, Snowflakes |
 
@@ -102,33 +101,47 @@ Deep Learning model capable of automatically identifying and classifying images 
 
 **Tech:** Python • TensorFlow • Keras • Deep Learning • CNN • Computer Vision
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubtotta&show_icons=true&theme=tokyonight" />
-</p>
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubtotta&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubtotta&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubtotta&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubtotta&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
 
 # 🔥 Contribution Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=santhoshkumaroff&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ubtotta&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
-## 🏆 GitHub Summary
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubtotta&theme=github_dark" />
-</p>
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ubtotta&theme=github-dark&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+# 🏆 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubtotta&theme=github_dark" />
+
+</div>
 
 ---
 
@@ -136,21 +149,39 @@ Deep Learning model capable of automatically identifying and classifying images 
 
 - 📚 Strengthening ML & DL fundamentals  
 - 🧪 Building real-world AI applications  
-- 🚀 Preparing for Data Scientist / ML Engineer roles  
+- 🚀 Preparing for Data Scientist / ML Engineer roles
+- 🧠 AI System Design 
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/udaya-kumar-b-totta">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:ubtotta16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/ubtotta">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/ubtotta16">
+<img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank" />
+</a>
+
+</div>
+
 
 ---
+<div align="center">
 
-⭐ If you like my work, feel free to star ⭐ my repositories!
+### 💡 Transforming Ideas Into Intelligent Systems Through AI & Engineering
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:0D1117&section=footer"/>
+
+</div>
