@@ -119,7 +119,7 @@ Deep Learning model capable of automatically identifying and classifying images 
 
 <div align="center">
   
- <img width="49%" src="https://streak-stats.demolab.com?user=JMR825&theme=tokyonight&hide_border=true" />
+ <img width="49%" src="https://streak-stats.demolab.com?user=ubtotta&theme=tokyonight&hide_border=true" />
 
 </div>
 
