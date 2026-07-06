@@ -118,8 +118,8 @@ Deep Learning model capable of automatically identifying and classifying images 
 # 🔥 Contribution Streak
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ubtotta&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+  
+ <img width="49%" src="https://streak-stats.demolab.com?user=JMR825&theme=tokyonight&hide_border=true" />
 
 </div>
 
