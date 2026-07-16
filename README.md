@@ -42,7 +42,7 @@ Mission:
 
 🟢 Building Production-Ready AI Applications
 
-🟢 Exploring Agentic AI Architectures
+🟢 Exploring RAG Archietecture
 
 🟢 Intelligent Workflow Automation
 
@@ -147,9 +147,9 @@ Deep Learning model capable of automatically identifying and classifying images 
 
 ## 🎯 Current Focus
 
-- 📚 Strengthening ML & DL fundamentals  
+- 📚 Strengthening ML, DL & GEN-AI fundamentals  
 - 🧪 Building real-world AI applications  
-- 🚀 Preparing for Data Scientist / ML Engineer roles
+- 🚀 Preparing for Data Scientist / ML Engineer roles / Gen-AI roles
 - 🧠 AI System Design 
 
 ---
