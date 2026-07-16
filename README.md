@@ -23,14 +23,20 @@
 ```yaml
 Name: Udaya Kumar B Totta
 
-Role: Machine Learning Engineer
+Aspiring Machine Learning Engineer passionate about building 
+intelligent systems that solve real-world business problems. 
+I work at the intersection of Data Science, Generative AI, and 
+Automation — turning data into decisions and ideas into deployable 
+AI solutions.
 
 Specializations:
-  - Data Science
-  - Machine Learning
-  - Generative AI
-  - AI Automation
-  - Data Analytics
+  - Machine Learning & Predictive Modeling
+  - Generative AI (RAG, LLMs, Prompt Engineering)
+  - AI Automation & Workflow Optimization
+  - Data Analytics & Visualization
+
+Currently exploring: RAG Architecture, LangChain, Hugging Face, and applied GenAI 
+pipelines through my #45DaysOfGenAI and #100DaysOfML journeys.
 
 Mission:
   Building intelligent systems that solve real-world business problems.
